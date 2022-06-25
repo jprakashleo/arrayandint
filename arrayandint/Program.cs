@@ -5,7 +5,9 @@ public class program
     {
         try
         {
+            //int type
             int[] arr = { 1, 2, 3, 4, 5 };
+            //nullable int type
             int?[] arr1 = new int?[5];
             person p = new person();
             program prg = new program();
